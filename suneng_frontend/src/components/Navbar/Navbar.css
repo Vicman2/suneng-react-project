@@ -1,0 +1,28 @@
+.Navbar{
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 200;
+}
+.Logo{
+    border-radius: 50px;
+    color:white;
+    font-weight: bold;
+    display: none;
+}
+
+#ScrollDown{
+    background: #000035;
+}
+
+@media (min-width:800px){
+    .Logo{
+        display: block;
+    }
+}

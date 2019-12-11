@@ -1,0 +1,43 @@
+.protect{
+    background: #000035;
+    margin-top:0;
+    padding-top: 40px;
+    margin-bottom: 20px;
+    padding-bottom: 40px;
+}
+.Title{
+    text-align: center;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+.prod{
+    background-color: white;
+    margin: 0 10px;
+}
+.prod img{
+    max-height: 400px;
+}
+.Product__Detail{
+    margin : 2px 7px;
+}
+
+.Machine__name{
+    font-size: 24px;
+    line-height: 36px;
+}
+.Btn__Div{
+    display: flex;
+    justify-content: flex-end;
+    height: 2rem;
+}
+
+.Btn__Div a{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    width: 100%;
+    padding: 7px 15px;
+    border-radius: 7px;
+}
