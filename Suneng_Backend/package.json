@@ -1,0 +1,14 @@
+{
+  "name": "suneng_backend",
+  "version": "1.0.0",
+  "description": "Node is the key, Javascript is the God father",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vicman"
+  ],
+  "author": "Vicman",
+  "license": "ISC"
+}
